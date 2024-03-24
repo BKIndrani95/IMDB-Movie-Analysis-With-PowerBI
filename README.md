@@ -1,5 +1,6 @@
 # IMDB-Movie-Analysis-With-PowerBI
-Explore the cinematic landscape through data with our immersive IMDb movie analysis powered by Microsoft Power BI. Delve into the depths of film statistics, trends, and insights like never before. Our interactive visualization brings the silver screen to life, offering a comprehensive look at various aspects of the movie industry.
+Explore the cinematic landscape through data with our immersive IMDb movie analysis powered by Microsoft Power BI. Delve into the depths of film statistics, trends, and insights like never before. Our interactive visualization brings the silver screen to life, offering a comprehensive look at various aspects of the movie industry. Initially do some basic data preprocessing using Python in Jupyter Notebook
+
 # Tools Used: PowerBI
 # Key Features:
  Comprehensive Data Exploration: Dive deep into IMDb's vast database, examining factors such as ratings, genres, release years, and more.
